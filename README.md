@@ -4,14 +4,6 @@ This repo contains application of Neural Style Transfer from [Gatys](https://arx
 
 ## Results
 
-Content Image
-
-![Content Image](./Content/eiffel.jpg)
-
-Style Image
-
-![Style Image](./Styles/starry_night.jpg)
-
-Result Image
-
-![Result Image](Output/eiffel_starry.jpg)
+|Content Image|Style Image|Result Image|
+|---|---|---|
+|![Content Image](./Content/eiffel.jpg)|![Style Image](./Styles/starry_night.jpg)|![Result Image](Output/eiffel_starry.jpg)|
